@@ -15,16 +15,17 @@
         android:layout_marginTop="30dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/group__10_" />
+        app:srcCompat="@drawable/group__10_"
+        android:contentDescription="@string/left_icon" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
-        android:text="Your Orders"
+        android:text="@string/your_orders"
         android:textColor="@color/black"
-        android:textSize="20dp"
+        android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
@@ -51,32 +52,36 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="35dp"
-            app:srcCompat="@drawable/discovery" />
+            app:srcCompat="@drawable/discovery"
+            android:contentDescription="@string/discovery" />
 
         <ImageView
             android:id="@+id/favorites"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="35dp"
-            app:srcCompat="@drawable/star" />
+            app:srcCompat="@drawable/star"
+            android:contentDescription="@string/favorites" />
 
         <ImageView
             android:id="@+id/catalog"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="35dp"
-            app:srcCompat="@drawable/third_icon" />
+            app:srcCompat="@drawable/third_icon"
+            android:contentDescription="@string/catalog" />
 
         <ImageView
             android:id="@+id/account2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
-            app:srcCompat="@drawable/component_2" />
+            app:srcCompat="@drawable/component_2"
+            android:contentDescription="@string/account" />
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="ACCOUNT"
+            android:text="@string/account2"
             android:textColor="@color/orange"
             android:textStyle="bold"/>
     </LinearLayout>

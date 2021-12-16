@@ -48,4 +48,6 @@
     <string name="repeat_order">Repeat Order</string>
     <string name="discovery">discovery</string>
     <string name="like">like</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="account2">ACCOUNT</string>
 </resources>

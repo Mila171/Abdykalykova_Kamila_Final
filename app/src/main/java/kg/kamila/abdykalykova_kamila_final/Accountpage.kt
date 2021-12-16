@@ -1,10 +1,9 @@
 package kg.kamila.abdykalykova_kamila_final
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import kg.kamila.abdykalykova_kamila_final.databinding.ActivityAccountPageBinding
-import kg.kamila.abdykalykova_kamila_final.databinding.ActivityMainBinding
 
 class Accountpage : AppCompatActivity() {
     private lateinit var binding: ActivityAccountPageBinding
