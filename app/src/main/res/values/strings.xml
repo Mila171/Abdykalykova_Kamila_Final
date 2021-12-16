@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Abdykalykova_Kamila_Final</string>
+    <string name="our_fried_rice_is_made_from_the_finest_ingredients_and_veggies_single_dish_is_made_with_fresh_vegetables_rescued">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="component">component</string>
+    <string name="_4_5">4.5</string>
+    <string name="star">star</string>
+    <string name="left_icon">left_icon</string>
+    <string name="jollof_rice">Jollof Rice</string>
+    <string name="suhani_s_stop_kukatpally">Suhani’s Stop, Kukatpally</string>
+    <string name="description">Description</string>
+    <string name="rescued">Rescued</string>
+    <string name="vegan">Vegan</string>
+    <string name="_30_min">30 min</string>
+    <string name="nutritional_value">Nutritional Value</string>
+    <string name="protein">Protein</string>
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="sodium">Sodium</string>
+    <string name="potassium">Potassium</string>
+    <string name="rich_in_vitamin_a_c_and_b3">Rich in Vitamin A, C and B3</string>
+    <string name="_145_cal">145 cal</string>
+    <string name="daily_value">*Daily value</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="select_user">Select User -</string>
+    <string name="user_1">User 1</string>
+    <string name="edit">Edit</string>
+    <string name="additions">Additions</string>
+    <string name="jalapeno">Jalapeno</string>
+    <string name="vegetables">vegetables</string>
+    <string name="time">time</string>
+    <string name="fire">fire</string>
+    <string name="rice">rice</string>
+    <string name="olive">olive</string>
+    <string name="carrot">carrot</string>
+    <string name="bellow">bellow</string>
+</resources>
