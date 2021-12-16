@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Abdykalykova_Kamila_Final">
         <activity
+            android:name=".Accountpage"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
