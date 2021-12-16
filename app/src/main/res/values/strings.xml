@@ -35,8 +35,17 @@
     <string name="account">account</string>
     <string name="favorites">favorites</string>
     <string name="catalog">catalog</string>
-    <string name="account">account</string>
     <string name="_1">- 1 +</string>
     <string name="_125">$125</string>
     <string name="bin">bin</string>
+    <string name="image">image</string>
+    <string name="vada_pav_station">Vada Pav Station</string>
+    <string name="kukatpally_hyderabad">Kukatpally, Hyderabad</string>
+    <string name="_110_00">$110.00</string>
+    <string name="items">ITEMS</string>
+    <string name="_1_x_pav_bhaji_with_gravy">1 x Pav Bhaji with Gravy</string>
+    <string name="rejected">Rejected</string>
+    <string name="repeat_order">Repeat Order</string>
+    <string name="discovery">discovery</string>
+    <string name="like">like</string>
 </resources>
