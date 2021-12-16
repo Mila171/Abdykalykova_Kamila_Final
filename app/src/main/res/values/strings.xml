@@ -32,4 +32,11 @@
     <string name="olive">olive</string>
     <string name="carrot">carrot</string>
     <string name="bellow">bellow</string>
+    <string name="account">account</string>
+    <string name="favorites">favorites</string>
+    <string name="catalog">catalog</string>
+    <string name="account">account</string>
+    <string name="_1">- 1 +</string>
+    <string name="_125">$125</string>
+    <string name="bin">bin</string>
 </resources>
